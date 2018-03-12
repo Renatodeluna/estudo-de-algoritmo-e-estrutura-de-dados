@@ -1,10 +1,11 @@
-package calculamedia;
-
 /**
  * Calcular media de 2 notas e imprimir o resultado
  * Autor : Renato de Luna
  * Data : 08/03/2018
  */
+
+package calculamedia;
+
 import javax.swing.JOptionPane; // Mostra uma caixa de dialogo 
 class CalculaMedia {
 
