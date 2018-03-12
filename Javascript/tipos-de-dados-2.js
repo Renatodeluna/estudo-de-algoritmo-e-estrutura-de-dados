@@ -10,10 +10,10 @@
     var aray2 = [];
 
 	for (var i = 0; i < aray1.length; i++) {
-		var dados = prompt(aray1[i]);
+        var dados = prompt(aray1[i]);
         aray2.push(dados);
-        
-		console.log(aray1[i] + dados);
+
+        console.log(aray1[i] + dados);
     }
 
 })();
