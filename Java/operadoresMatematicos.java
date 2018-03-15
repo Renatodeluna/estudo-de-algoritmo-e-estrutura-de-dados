@@ -1,7 +1,7 @@
 /**
  * Ler 2 números, efetuar as 4 operações matemáticas e mostrar os resultados
  * Autor : Renato de Luna
- * Data : 13/03/2018
+ * Data : 13/03/2018        
  */
 
 package operadoresmatematicos;
