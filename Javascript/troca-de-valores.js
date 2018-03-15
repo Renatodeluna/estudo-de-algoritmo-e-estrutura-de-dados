@@ -11,6 +11,15 @@
 
     'use strict';
 
-    
+    var a = 5, 
+        b = 10, 
+        c;
+
+    c = a;
+    a = b;
+    b = c;
+
+    console.log("O valor de A é : " + a);
+    console.log("O valor de B é : " + b)
 
 })();
