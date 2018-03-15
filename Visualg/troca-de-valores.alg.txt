@@ -1,0 +1,14 @@
+algoritmo "trocadevalores"
+// Função : 
+// Autor : Renato de Luna
+// Data : 14/03/2018
+
+// Seção de Declarações 
+var
+   
+   
+inicio
+// Seção de Comandos 
+   
+
+fimalgoritmo
