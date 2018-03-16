@@ -6,7 +6,12 @@
     
     'use strict';
     
-    var num1, num2, soma, subtracao, multiplicacao, divisao;
+	var num1, 
+		num2, 
+		soma, 
+		subtracao, 
+		multiplicacao, 
+		divisao;
 
 	num1 = parseFloat(prompt("Digite o primeiro numero : "));
 	num2 = parseFloat(prompt("Digite o segundo numero : "));
