@@ -1,7 +1,7 @@
 algoritmo "consorcio"
 // Função : Considerando que para uma consórcio, sabe-se o número total de
 // prestações, a quantidade de prestações pagas e o valor atual da prestação,
-// esceva um algoritmo que deremine o total pago pelo consorciado e o
+// esceva um algoritmo que determine o total pago pelo consorciado e o
 // saldo devedor.
 // Autor : Renato de Luna
 // Data : 20/03/2018
