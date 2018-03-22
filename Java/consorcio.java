@@ -21,7 +21,7 @@ public class Consorcio {
         valor_atual = Float.parseFloat(JOptionPane.showInputDialog("Digite o valor atual das prestações : "));
         
         total_pago = valor_atual * prestacoes_pagas;
-        saldo_devedor = (prestacoes_total *valor_atual) - total_pago;
+        saldo_devedor = (prestacoes_total * valor_atual) - total_pago;
         
         System.out.println("O valor total pago até hoje é : " + total_pago);
         System.out.println("Seu saldo devedor é : " + saldo_devedor);
