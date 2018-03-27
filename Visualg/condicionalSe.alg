@@ -16,9 +16,9 @@ inicio
    leia(B)
    
    se A > B entao
-      escreval(A , " - ", B)
-   senao
       escreval(B , " - ", A)
+   senao
+      escreval(A , " - ", B)
    fimse
  
 fimalgoritmo
