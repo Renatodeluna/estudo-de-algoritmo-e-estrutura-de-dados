@@ -2,9 +2,11 @@
  * Função : O sitema de avaliação de determinada disciplina, é composto por três
  * provas. A primeira prova tem peso 2, a segunda tem peso 3 e a terceira prova
  * tem peso 5. Faça um algoritmo para calcular a média final de um aluno desta
- * disciplina.
+ * disciplina se a média for maior ou igual a 6, mostre APROVADO, se não, mostre
+ * REPROVADO.
  * Autor : Renato de Luna
- * Data : 17/03/2018
+ * Data : 16/03/2018
+ * Revisão : 27/03/2018
  */
 
 package avaliacaodeprova;
@@ -25,7 +27,10 @@ public class AvaliacaoDeProva {
         prova3 = (prova3 * 5) / 10;
         media_final = prova1 + prova2 + prova3;
 
-        System.out.println("A média é : " + media_final);
+        if (media_final >= 6)
+            System.out.println("A média é : " + media_final + " aluno APROVADO");
+        else
+            System.out.println("A média é : " + media_final + " aluno REPROVADO");
 
     }
 
