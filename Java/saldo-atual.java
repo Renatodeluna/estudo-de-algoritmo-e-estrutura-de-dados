@@ -1,5 +1,5 @@
 /*
- * Função : Um cliente de um banco tem um saldo positiov de R% 500,00. Fazer
+ * Função : Um cliente de um banco tem um saldo positivo de R% 500,00. Fazer
  * um algoritmo de leia um cheque que entrou e calcule o saldo, mostrando o
  * saldo na tela.
  * Autor : Renato de Luna
