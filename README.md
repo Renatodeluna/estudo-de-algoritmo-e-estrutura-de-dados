@@ -14,6 +14,12 @@ Algoritmos em C, Java, Javascript como estudo de logica de programação e estru
 | 8  | [Salario][8]                               | [C][8.2]  | [Java][8.3]  | [Javascript][8.4]  |
 | 9  | [Consorcio][9]                             | [C][9.2]  | [Java][9.3]  | [Javascript][9.4]  |
 | 10 | [Prestação][10]                            | [C][10.2] | [Java][10.3] | [Javascript][10.4] |
+| 11 | [Condicional Se][11]                       | [C][11.2] | [Java][11.3] | [Javascript][11.4] |
+| 12 | [Avaliação de prova][12]                   | [C][12.2] | [Java][12.3] | [Javascript][12.4] |
+| 13 | [desconto][13]                             | [C][13.2] | [Java][13.3] | [Javascript][13.4] |
+| 14 | [Operadores matemáticos][14]               | [C][14.2] | [Java][14.3] | [Javascript][14.4] |
+| 15 | [Saldo atual][15]                          | [C][15.2] | [Java][15.3] | [Javascript][15.4] |
+| 16 | [Analise de cheque][16]                    | [C][16.2] | [Java][16.3] | [Javascript][16.4] |
 
 
 The MIT License (MIT) - 2018 Renato de Luna
@@ -58,3 +64,27 @@ The MIT License (MIT) - 2018 Renato de Luna
 [10.2]: /C/prestacao.c
 [10.3]: /Java/prestacao.java
 [10.4]: /Javascript/prestacao.js
+[11]:   /Visualg/condicionalSe.alg
+[11.2]: /C/condicionalSe.c
+[11.3]: /Java/condicionalSe.java
+[11.4]: /Javascript/condicionalSe.js
+[12]:   /Visualg/avaliacao-de-prova.alg
+[12.2]: /C/avaliacao-de-prova.c
+[12.3]: /Java/avaliacao-de-prova.java
+[12.4]: /Javascript/avaliacao-de-prova.js
+[13]:   /Visualg/desconto.alg
+[13.2]: /C/desconto.c
+[13.3]: /Java/desconto.java
+[13.4]: /Javascript/desconto.js
+[14]:   /Visualg/operadores-matematicos.alg
+[14.2]: /C/operadoresMatematicos.c
+[14.3]: /Java/operadoresMatematicos.java
+[14.4]: /Javascript/operadores-matematicos.js
+[15]:   /Visualg/saldo-atual.alg
+[15.2]: /C/saldo-atual.c
+[15.3]: /Java/saldo-atual.java
+[15.4]: /Javascript/saldo-atual.js
+[16]:   /Visualg/analise-de-cheque.alg
+[16.2]: /C/analise-de-cheque.c
+[16.3]: /Java/analise-de-cheque.java
+[16.4]: /Javascript/analise-de-cheque.js
