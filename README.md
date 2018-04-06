@@ -4,22 +4,22 @@ Algoritmos em C, Java, Javascript, Php, Ruby e Python como estudo de logica de p
 
 |    | Algoritmo                                  |  C        |     Java     |      Javascript    |     Php    |   Ruby      |   Python      |
 |----|--------------------------------------------|-----------|--------------|--------------------|------------|-------------|---------------|
-| 1  | [Calcular media][1]                        | [C][1.2]  | [Java][1.3]  | [Javascript][1.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 2  | [Operadores matematicos][2]                | [C][2.2]  | [Java][2.3]  | [Javascript][2.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 3  | [Tipos de dados][3]                        | [C][3.2]  | [Java][3.3]  | [Javascript][3.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 4  | [Custo do automóvel][4]                    | [C][4.2]  | [Java][4.3]  | [Javascript][4.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 5  | [Troca de valores][5]                      | [C][5.2]  | [Java][5.3]  | [Javascript][5.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 6  | [Comissão vendas][6]                       | [C][6.2]  | [Java][6.3]  | [Javascript][6.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 7  | [Comissão vendas2][7]                      | [C][7.2]  | [Java][7.3]  | [Javascript][7.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 8  | [Salario][8]                               | [C][8.2]  | [Java][8.3]  | [Javascript][8.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 9  | [Consorcio][9]                             | [C][9.2]  | [Java][9.3]  | [Javascript][9.4]  | [Php][]    | [Ruby][]    | [Python][]    |
-| 10 | [Prestação][10]                            | [C][10.2] | [Java][10.3] | [Javascript][10.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 11 | [Condicional Se][11]                       | [C][11.2] | [Java][11.3] | [Javascript][11.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 12 | [Avaliação de prova][12]                   | [C][12.2] | [Java][12.3] | [Javascript][12.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 13 | [desconto][13]                             | [C][13.2] | [Java][13.3] | [Javascript][13.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 14 | [Operadores matemáticos][14]               | [C][14.2] | [Java][14.3] | [Javascript][14.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 15 | [Saldo atual][15]                          | [C][15.2] | [Java][15.3] | [Javascript][15.4] | [Php][]    | [Ruby][]    | [Python][]    |
-| 16 | [Analise de cheque][16]                    | [C][16.2] | [Java][16.3] | [Javascript][16.4] | [Php][]    | [Ruby][]    | [Python][]    |
+| 1  | [Calcular media][1]                        | [C][1.2]  | [Java][1.3]  | [Javascript][1.4]  | Php        | Ruby        | Python        |
+| 2  | [Operadores matematicos][2]                | [C][2.2]  | [Java][2.3]  | [Javascript][2.4]  | Php        | Ruby        | Python        |
+| 3  | [Tipos de dados][3]                        | [C][3.2]  | [Java][3.3]  | [Javascript][3.4]  | Php        | Ruby        | Python        |
+| 4  | [Custo do automóvel][4]                    | [C][4.2]  | [Java][4.3]  | [Javascript][4.4]  | Php        | Ruby        | Python        |
+| 5  | [Troca de valores][5]                      | [C][5.2]  | [Java][5.3]  | [Javascript][5.4]  | Php        | Ruby        | Python        |
+| 6  | [Comissão vendas][6]                       | [C][6.2]  | [Java][6.3]  | [Javascript][6.4]  | Php        | Ruby        | Python        |
+| 7  | [Comissão vendas2][7]                      | [C][7.2]  | [Java][7.3]  | [Javascript][7.4]  | Php        | Ruby        | Python        |
+| 8  | [Salario][8]                               | [C][8.2]  | [Java][8.3]  | [Javascript][8.4]  | Php        | Ruby        | Python        |
+| 9  | [Consorcio][9]                             | [C][9.2]  | [Java][9.3]  | [Javascript][9.4]  | Php        | Ruby        | Python        |
+| 10 | [Prestação][10]                            | [C][10.2] | [Java][10.3] | [Javascript][10.4] | Php        | Ruby        | Python        |
+| 11 | [Condicional Se][11]                       | [C][11.2] | [Java][11.3] | [Javascript][11.4] | Php        | Ruby        | Python        |
+| 12 | [Avaliação de prova][12]                   | [C][12.2] | [Java][12.3] | [Javascript][12.4] | Php        | Ruby        | Python        |
+| 13 | [desconto][13]                             | [C][13.2] | [Java][13.3] | [Javascript][13.4] | Php        | Ruby        | Python        |
+| 14 | [Operadores matemáticos][14]               | [C][14.2] | [Java][14.3] | [Javascript][14.4] | Php        | Ruby        | Python        |
+| 15 | [Saldo atual][15]                          | [C][15.2] | [Java][15.3] | [Javascript][15.4] | Php        | Ruby        | Python        |
+| 16 | [Analise de cheque][16]                    | [C][16.2] | [Java][16.3] | [Javascript][16.4] | Php        | Ruby        | Python        |
 
 
 The MIT License (MIT) - 2018 Renato de Luna
