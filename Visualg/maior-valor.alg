@@ -17,13 +17,38 @@ inicio
    escreval("Digite o valor de n3 : ")
    leia(n3)
    
+   // Maior valor
    se (n1 > n2) entao
       se (n1 > n3) entao
          maior_valor <- n1
       senao
          mior_valor <- n3
+      fimse
    senao
-        maior_valor <- n2
+      se (n2 > n3) entao
+         maior_valor <- n2
+      senao
+         maior_valor <- n3
+      fimse
    fimse
+   
+   // Menor valor
+   se (n1 < n2) entao
+      se (n1 < n3) entao
+         menor_valor <- n1
+      senao
+         menor_valor <- n3
+      fimse
+   senao
+      se (n2 < n3) entao
+         menor_valor <- n2
+      senao
+         menor_valor <- n3
+      fimse
+   fimse
+   
+   
+   escreval("Maior valor : ", maior_valor)
+   escreval("Menor valor : ", menor_valor)
 
 fimalgoritmo

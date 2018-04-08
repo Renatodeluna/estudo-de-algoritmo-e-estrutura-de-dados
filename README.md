@@ -4,7 +4,7 @@ Algoritmos em C, Java, Javascript, Php, Ruby e Python como estudo de logica de p
 
 |    | Algoritmo                                  |  C        |     Java     |      Javascript    |     Php    |   Ruby      |   Python      |
 |----|--------------------------------------------|-----------|--------------|--------------------|------------|-------------|---------------|
-| A  | [Calcular media][1]                        | [C][1.2]  | [Java][1.3]  | [Javascript][1.4]  | Php        | Ruby        | Python        |
+| 1  | [Calcular media][1]                        | [C][1.2]  | [Java][1.3]  | [Javascript][1.4]  | Php        | Ruby        | Python        |
 | 2  | [Operadores matematicos][2]                | [C][2.2]  | [Java][2.3]  | [Javascript][2.4]  | Php        | Ruby        | Python        |
 | 3  | [Tipos de dados][3]                        | [C][3.2]  | [Java][3.3]  | [Javascript][3.4]  | Php        | Ruby        | Python        |
 | 4  | [Custo do automóvel][4]                    | [C][4.2]  | [Java][4.3]  | [Javascript][4.4]  | Php        | Ruby        | Python        |
