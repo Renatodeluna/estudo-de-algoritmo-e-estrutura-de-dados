@@ -20,6 +20,7 @@ Algoritmos em C, Java, Javascript, Php, Ruby e Python como estudo de logica de p
 | 14 | [Operadores matemáticos][14]               | [C][14.2] | [Java][14.3] | [Javascript][14.4] | Php        | Ruby        | Python        |
 | 15 | [Saldo atual][15]                          | [C][15.2] | [Java][15.3] | [Javascript][15.4] | Php        | Ruby        | Python        |
 | 16 | [Analise de cheque][16]                    | [C][16.2] | [Java][16.3] | [Javascript][16.4] | Php        | Ruby        | Python        |
+| 17 | [Maior valor][17]                          | [C][17.2] | [Java][17.3] | [Javascript][17.4] | Php        | Ruby        | Python        |
 
 
 |    | Algoritmos de Ordenação                    |  C        |     Java     |      Javascript    |     Php    |   Ruby      |   Python      |
@@ -92,3 +93,7 @@ The MIT License (MIT) - 2018 Renato de Luna
 [16.2]: /C/analise-de-cheque.c
 [16.3]: /Java/analise-de-cheque.java
 [16.4]: /Javascript/analise-de-cheque.js
+[17]:   /Visualg/maior-valor.alg
+[17.2]: /C/maior-valor.c
+[17.3]: /Java/maior-valor.java
+[17.4]: /Javascript/maior-valor.js
