@@ -6,7 +6,7 @@ algoritmo "maiorvalor"
 
 // Seção de Declarações 
 var
-   n1, n2, n3, menor_valor, maior_valor : Inteiro
+   n1, n2, n3 : Inteiro
 
 inicio
 // Seção de Comandos 
@@ -20,35 +20,31 @@ inicio
    // Maior valor
    se (n1 > n2) entao
       se (n1 > n3) entao
-         maior_valor <- n1
+        escreval("Maior valor : ", n1)
       senao
-         mior_valor <- n3
+        escreval("Maior valor : ", n3)
       fimse
    senao
       se (n2 > n3) entao
-         maior_valor <- n2
+        escreval("Maior valor : ", n2)
       senao
-         maior_valor <- n3
+        escreval("Maior valor : ", n3)
       fimse
    fimse
    
    // Menor valor
    se (n1 < n2) entao
       se (n1 < n3) entao
-         menor_valor <- n1
+        escreval("Menor valor : ", n1)
       senao
-         menor_valor <- n3
+        escreval("Menor valor : ", n3)
       fimse
    senao
       se (n2 < n3) entao
-         menor_valor <- n2
+        escreval("Menor valor : ", n2)
       senao
-         menor_valor <- n3
+        escreval("Menor valor : ", n3)
       fimse
    fimse
-   
-   
-   escreval("Maior valor : ", maior_valor)
-   escreval("Menor valor : ", menor_valor)
 
 fimalgoritmo
